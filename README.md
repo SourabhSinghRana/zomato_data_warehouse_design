@@ -17,4 +17,4 @@ If you have any suggestions or ideas on how to further improve this data warehou
 #DataWarehousing #Analytics #DataDrivenDecisionMaking #Zomato #FoodTech
 
 
-![Zomato Data Warehouse Design](https://github.com/SourabhSinghRana/zomato_data_warehouse_design/assets/128234000/c80bc548-9f38-499d-a820-35dfd0b10cbf)
+![Zomato Data Warehouse Design](https://github.com/SourabhSinghRana/zomato_data_warehouse_design/assets/128234000/2c671060-8333-4425-9713-1030789870bf)
